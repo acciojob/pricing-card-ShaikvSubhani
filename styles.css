@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+
+section{
+	width:200px;
+}
+.pricing{
+	text-align:center;
+
+	
+
+}
+button{
+	background-color:rgb(254,112,105);
+	color:white;
+	padding:8px;
+	border-radius:8px;
+	border:none;
+}
